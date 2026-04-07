@@ -71,8 +71,8 @@ const SponsorItem = styled.div`
 `
 
 const sponsorNames = [
-  'NIKE', 'ADIDAS', 'GATORADE', 'RED BULL', 'UNDER ARMOUR',
-  'ASICS', 'NEW BALANCE', 'PUMA', 'POWERADE', 'OAKLEY'
+  'PATRICIONIO', 'PATRICIONIO', 'PATRICIONIO', 'PATRICIONIO', 'PATRICIONIO',
+  'PATRICIONIO', 'PATRICIONIO', 'PATRICIONIO', 'PATRICIONIO', 'PATRICIONIO'
 ]
 
 export default function SponsorsSlider() {
